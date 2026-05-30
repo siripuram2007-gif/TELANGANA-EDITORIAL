@@ -1,0 +1,6 @@
+{
+  "name": "Telangana Today Editorial Co-Pilot",
+  "description": "An advanced newsroom co-pilot to parse long-form raw articles into optimized multi-channel editorial assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
